@@ -1,4 +1,4 @@
-This is new Web page created using React along with GEMINI API 
+This is new Web page created using React along with Integration of GEMINI API
 
 
 How to use ? 
